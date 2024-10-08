@@ -1127,7 +1127,7 @@
     <string name="Session_Stats">Session Stats</string>
     <string name="Time_">Timp:</string>
     <string name="Show_Session_Stats">Show Session Stats</string>
-    <string name="VALENTINES_DAY">"VALENTINES DAY"</string>
+    <string name="VALENTINES_DAY">Ziua Sfântului Valentin"</string>
     <string name="Giveaways_">Giveaways!</string>
     <string name="Max_XP_Chain_">Max XP Chain:</string>
     <string name="POSITION_CANCEL_BUTTON">POSITION CANCEL BUTTON</string>
@@ -1166,14 +1166,14 @@
     <string name="MULTIBLOB">MULTIBLOB</string>
     <string name="Play_Nebulous_For_1_Year_">Play Nebulous For 1 Year!</string>
     <string name="Play_Nebulous_For_X_Years_">Play Nebulous For %d Years!</string>
-    <string name="Starting___">Starting…</string>
+    <string name="Starting___">Incepere…</string>
     <string name="Tournament_Starting">Tournament Starting</string>
     <string name="Max_Tilt_Angle_3D_">Max Tilt Angle 3D:</string>
     <string name="Mode_3D">3D Mode</string>
     <string name="Names_Below_Blobs">Names Below Blobs</string>
     <string name="Name_Scale_">"Scala de nume:"</string>
-    <string name="Button_3D">Button 3D</string>
-    <string name="Hide_Button_">Hide Button?</string>
+    <string name="Button_3D">Buton 3D</string>
+    <string name="Hide_Button_">Buton Ascuns?</string>
     <string name="Show_Boost_Button">Show Boost Button</string>
     <string name="Spectate_Killer_On_Death">Spectate Killer On Death</string>
     <string name="Rainbow_Holes">Rainbow Holes</string>
@@ -1224,7 +1224,7 @@
     <string name="CLAN_DESCRIPTION_COLOR">CLAN DESCRIPTION COLOR</string>
     <string name="Responsible_Pet_Owner">Responsible Pet Owner</string>
     <string name="Animal_Tamer">Animal Tamer</string>
-    <string name="Crocodile_Hunter">Crocodile Hunter</string>
+    <string name="Crocodile_Hunter">Crocodilul Vânător</string>
     <string name="Get_A_Pet_To_Level_X_">Get A Pet To Level %d.</string>
     <string name="plasma_boost_info">"You gain three times plasma from all IN-GAME sources while the boost is active! This includes arena  and tournament winnings! Does NOT work on plasma purchases, spins, or special rewards."</string>
     <string name="Plasma_Boost_7_Days_">Plasma Boost 7 Days!!!</string>
@@ -1286,7 +1286,7 @@ Comenzi:
     <string name="Type">Scrie</string>
     <string name="Complete_campaign_mission_">Completează misiunea campaign</string>
     <string name="Specify_Reason_">Precizează motivul:</string>
-    <string name="FREE_FOR_ALL">FREE FOR ALL</string>
+    <string name="FREE_FOR_ALL">GRATUIT PENTRU TOȚI</string>
     <string name="SPECIAL">SPECIAL</string>
     <string name="FREE">GRATUIT</string>
     <string name="x5_Clan_XP_1_Day">5X CLAN XP 1 DAY</string>
